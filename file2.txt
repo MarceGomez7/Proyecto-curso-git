@@ -1,1 +1,1 @@
-Esto es contenido 
+Esto es contenido del archivo 2 en formato TXT
